@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 820a74ab92a3c894b83f597a3f2b8c8d, type: 3}
+  m_Name: 3MacetaModel
+  m_EditorClassIdentifier: 
+  ItemName: Maceta 3
+  ItemImage: {fileID: 21300000, guid: 8e97388ac5c1ba04ab4f63bda763a589, type: 3}
+  ItemDescription: Crecimiento 1
+  ItemModel3D: {fileID: 4853817230066699494, guid: 910ccb93edfa74b4aa28f301f6296c4e, type: 3}

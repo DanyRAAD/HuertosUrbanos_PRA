@@ -4,7 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/HuertosUrbanos.unity
+    guid: bb5ac3a0d782f3d469882da5ac247501
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 1e91da99b68e1e340be492eadf98d063, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b88f48ad3d818ad4ab3581b5358d1753, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c4392550a1edf6e4981356df4aca926f, type: 2}

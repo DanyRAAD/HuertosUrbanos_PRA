@@ -12,13 +12,14 @@ public class GameManager : MonoBehaviour
     public static GameManager  instance;
     private void Awake()
     {
-        if (instance == null && instance != this)
-        {
-            Destroy(gameObject);
-        }
-        else
+        if (instance == null)
         {
             instance = this;
+            DontDestroyOnLoad(gameObject); // Esto asegura que GameManager persista entre escenas, si es necesario.
+        }
+        else if (instance != this)
+        {
+            Destroy(gameObject); // Destruye cualquier instancia duplicada de GameManager.
         }
     }
 
