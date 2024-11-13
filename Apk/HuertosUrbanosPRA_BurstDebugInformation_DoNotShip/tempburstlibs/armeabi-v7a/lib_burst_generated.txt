@@ -12,6 +12,7 @@ Library: C:\Users\ramir\OneDrive\Documentos\GitHub\HuertosUrbanos_PRA\Temp\Burst
 --assembly-defines=DOTween;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
+--assembly-defines=NativeGallery.Runtime;
 --assembly-defines=System.Configuration;
 --assembly-defines=System.Core;
 --assembly-defines=System;
