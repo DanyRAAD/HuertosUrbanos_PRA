@@ -29,10 +29,10 @@ public class ItemButtonManager : MonoBehaviour
         set { item3DModel = value; }
     }
 
-    // Start is called before the first frame update
+    // 
     void Start()
     {
-        // Ensure TextMeshProUGUI components are used if TextMeshPro is used in the scene
+        // 
         var nameText = transform.GetChild(0).GetComponent<TextMeshProUGUI>();
         var imageComponent = transform.GetChild(1).GetComponent<RawImage>();
         var descriptionText = transform.GetChild(2).GetComponent<TextMeshProUGUI>();
@@ -51,14 +51,14 @@ public class ItemButtonManager : MonoBehaviour
             });
         }
 
-        interactionManager = FindObjectOfType<ARInteractionManager>(); 
+        interactionManager = FindObjectOfType<ARInteractionManager>();
     }
 
     private void Create3DModel()
     {
         if (item3DModel != null)
         {
-           interactionManager.Item3DModel = Instantiate(item3DModel);
+            interactionManager.Item3DModel = Instantiate(item3DModel);
         }
     }
 }
