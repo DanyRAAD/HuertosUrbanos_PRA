@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 820a74ab92a3c894b83f597a3f2b8c8d, type: 3}
   m_Name: Maceta1
   m_EditorClassIdentifier: 
-  ItemName: Maceta1
+  ItemName: Siembra
   ItemImage: {fileID: 21300000, guid: aa6381d46c84b7149aab8e7de369e542, type: 3}
   ItemDescription: Siembra
   ItemModel3D: {fileID: 6400211812032630121, guid: 302ad3a561b0ac94883a3dba3bbcb4d3, type: 3}

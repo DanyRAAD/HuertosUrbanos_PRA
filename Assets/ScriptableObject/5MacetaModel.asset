@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 820a74ab92a3c894b83f597a3f2b8c8d, type: 3}
   m_Name: 5MacetaModel
   m_EditorClassIdentifier: 
-  ItemName: Maceta 5
+  ItemName: "Fructificaci\xF3n y cosecha"
   ItemImage: {fileID: 21300000, guid: 2b1428897d52f404ea7a073439e16c81, type: 3}
   ItemDescription: Crecimiento Final
   ItemModel3D: {fileID: 236162286697590116, guid: b4dec7aab11ca724cb248683f77cacc2, type: 3}

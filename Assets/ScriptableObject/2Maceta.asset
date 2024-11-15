@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 820a74ab92a3c894b83f597a3f2b8c8d, type: 3}
   m_Name: 2Maceta
   m_EditorClassIdentifier: 
-  ItemName: Maceta 2
+  ItemName: "Pl\xE1ntula"
   ItemImage: {fileID: 21300000, guid: 79d677134977428418268231acca5c37, type: 3}
   ItemDescription: Germinacion
   ItemModel3D: {fileID: 1482880666486761828, guid: f4df4654bb3c8df4eac7e21b98f5c15f, type: 3}

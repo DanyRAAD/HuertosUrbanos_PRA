@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 820a74ab92a3c894b83f597a3f2b8c8d, type: 3}
   m_Name: 4MacetaModel
   m_EditorClassIdentifier: 
-  ItemName: Maceta 4
+  ItemName: "Floraci\xF3n"
   ItemImage: {fileID: 21300000, guid: cbae0a3fabda3f641be69b21207db2ea, type: 3}
   ItemDescription: Crecimiento con flor
   ItemModel3D: {fileID: 8754331309802712645, guid: 091779be27632ae4296c49670a936656, type: 3}
